@@ -1,0 +1,14 @@
+{
+    "name": "gmprosin/auto",
+    "type": "project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^5.3",
+        "google/apiclient": "^2.15"
+    },
+    "minimum-stability": "stable",
+    "config": {
+        "platform": {
+            "php": "8.4"
+        }
+    }
+}
